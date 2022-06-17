@@ -1,0 +1,159 @@
+body {
+    background-color: rgb(231, 237, 240);
+    text-align: center;
+}
+
+.whoAmI {
+    font-size: 5rem;
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+    line-height: 0.5;
+}
+
+.i-am {
+    width: 30%;
+    margin: auto;
+}
+
+.p-font {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2 rem;
+    color: #66BFBF;
+}
+
+hr {
+    border: dotted #a4d49a 6PX;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skills {
+    margin: 100px auto 100px auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    color: #66BFBF;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+/* images */
+.top-img {
+
+    position: absolute;
+    left: 71%;
+    top: 50px;
+}
+
+.bottom-img {
+    position: absolute;
+
+}
+
+.mountain {
+    height: 500px;
+    width: 700px;
+}
+
+.skills-gear {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-bi {
+    width: 50%;
+    height: 65%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    margin: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    color: #66BFBF;
+}
+
+
+/* Selectors */
+
+h3 {
+    color: #11999E;
+}
+
+.p-skills-gear {
+    color: black;
+}
+
+.p-skill-bi {
+    color: black;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}   
+
+/* Footer */
+
+#get-it {
+    color: #66BFBF;
+}
+
+.btn {
+    color: #11999E;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px;
+}
+
+
+
+#brand-mark {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+/* Button */
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 30px 30px ;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
